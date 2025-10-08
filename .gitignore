@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+server/.env
+qdrant_storage/
+.idea/
+.vscode/
+.DS_Store
+build/
+.gradle/
+*.log
